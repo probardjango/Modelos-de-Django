@@ -1,0 +1,7 @@
+Include/
+Lib/
+Scripts/
+modelos.sublime-project
+modelos.sublime-workspace
+pip-selfcheck.json
+*.py[cod]
